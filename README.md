@@ -9,6 +9,12 @@ In this example the student or the quiz participant made 4 questions in total, a
 We got the average answered questions with the following formula:
 (Total Score*100)/Number of total questions) = Average answered
 Referring to the basic formula above, use the participant’s total score earned (3) multiplied by (100) then divided by the total number of question of the math quiz.
+
+
+
+
+
+
 	Design
 To do this program, I designed 6 functions. The first one is the math_learning_quiz. This is the main function of my program.
 Pseudocode:
@@ -54,6 +60,7 @@ For each digit of the input
    If index of checker is not in the list of digits
      Return false
 Return true
+
 A sample run of the code to see the method in action:
  
 	Implementation
